@@ -1,0 +1,46 @@
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+nav .navbar-brand .blue
+{
+    color: #537fbe;
+}
+
+nav .navbar-brand .gray
+{
+    color: #808080;
+}
+
+main .form-control
+{
+    display: inline-block;
+    width: auto;
+}
+
+main
+{
+    overflow-x: auto;
+    text-align: center;
+}
+
+main img
+{
+    max-width: 100%;
+}
+
+body
+{
+    background-color: gray;
+}
+
+thead
+{
+    color: #90ee90;
+}
+
+tbody
+{
+    color: #e6e6fa;
+}

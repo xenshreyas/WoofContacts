@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Apology
+{% endblock %}
+
+{% block main %}
+
+    <h3>
+        <div class="alert alert-danger" role = "alert">
+            {{ message }}
+        </div>
+    </h3>
+    <p>
+        <img src="static/kumo.png" alt="error image">
+    </p>
+
+{% endblock %}
