@@ -1,8 +1,6 @@
 # WoofContacts
 
-#### Video Demo: https://youtu.be/5_UgRtXbylc
-
-#### Description: The project is a basic contact storing web-app using python, flask and databases in SQL. Using the navbar, I was able to create a navigation bar through which the user can  be taken from one page to another. The first thing to do was the design in the pages. Most of the design was inspired by CS50 Finance as it was very appealing to me. Using different background colors and a new favicon of my dog (Kumo), I made it unique and aestheticized to my own style. It's somewhat dark themed as that is less straining on the eyes. 
+#### Description: The project is a basic contact storing web-app using python, flask and databases in SQL. Using the navbar, I was able to create a navigation bar through which the user can  be taken from one page to another. The first thing to do was the design in the pages. Using different background colors and a new favicon of my dog (Kumo), I made it unique and aestheticized to my own style. It's somewhat dark themed as that is less straining on the eyes. 
 
 #### The project basically acts as a place where a user can store their contacts, similar to a phone book. The contacts are shown in accordance to alphabetic order. The web-app allows the user to store their contacts in a consolidated environment. Search for one of those contacts, delete a contact or block a contact and view the blocked contacts. Before getting access to any of those features, however, the user must first register an account, and remain logged in.
 
@@ -19,5 +17,3 @@
 #### The block function changed the blocked parameter of the contacts database that set the blocked parameter to 1, effectively blocking them.
 
 #### I also made several HTML files. The layout.html file was to set up the basic design of the webpage to prevent rewriting a LOT of code. The other files were used to set up the pages for the index, search, delete, block and blocked functions. In index and block, I used HTML Table tags to help me provide the contact details in a tabular form. The others took in an input as a parameter with a button to submit their input and then performed the respective functions.
-
-#### Using the concepts taught in CS50x I was able to complete this project and it was really fun. Took a good amount of time!
